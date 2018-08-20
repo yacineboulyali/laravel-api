@@ -12,6 +12,8 @@ Client Secret: CnLnISHxdUa8WDtqLc0VN6XXcwa0GmzEq0JTnt4A
 <td>username : boulyali@gmail.com</td>
 <td>password : aaaa</td>
 <td>postman header</td>
+</tr>
+<tr>
 <td>grant_type  : password</td>
 <td>client_id : 2</td>
 <td>client_secret : CnLnISHxdUa8WDtqLc0VN6XXcwa0GmzEq0JTnt4A<td>
