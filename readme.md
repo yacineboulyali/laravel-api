@@ -1,3 +1,25 @@
+
+my keys
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client Secret: U6NmtGWALj6QltuSfyMs295wgr67TCxnBY5LkeH5
+Password grant client created successfully.
+Client ID: 2
+Client Secret: CnLnISHxdUa8WDtqLc0VN6XXcwa0GmzEq0JTnt4A
+<table>
+<tr>
+<td>username : boulyali@gmail.com</td>
+<td>password : aaaa</td>
+<td>postman header</td>
+<td>grant_type  : password</td>
+<td>client_id : 2</td>
+<td>client_secret : CnLnISHxdUa8WDtqLc0VN6XXcwa0GmzEq0JTnt4A<td>
+</tr>
+</table>
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -64,3 +86,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# MyLaravel-Api-Passport" 
+
+
